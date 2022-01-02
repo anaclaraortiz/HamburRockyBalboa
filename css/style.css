@@ -76,13 +76,13 @@ footer {grid-area: footer;}
     justify-content: center;
     align-items: center;
 }
-
-
 /* CSS DE MENU */
+
 .menuFlex {
     margin: 0px;
     display: flex;
     justify-content: center;
     padding: 20px;
     border: 10px;
+    flex-wrap: wrap;
 }
